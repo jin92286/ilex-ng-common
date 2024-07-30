@@ -1,0 +1,23 @@
+{
+  "name": "ilex-ng-common",
+  "version": "0.0.1",
+  "authors": [
+    "frank_wu <frank.wu@ilextech.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "main": [
+    "./helper/base64.js",
+    "./helper/string-tool.js",
+    "./helper/url-tool.js",
+    "./helper/api-client.js"
+  ],
+  "dependencies": {
+  }
+}
